@@ -1,0 +1,8 @@
+.env.dev
+.env.prod
+
+.vscode
+.vs
+
+venv
+**/__pycache__/
